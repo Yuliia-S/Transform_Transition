@@ -19,8 +19,7 @@
 	font-size: 60px;
 }
 
-/* Add rules for the element 'p' present inside the class 'letters' using descendant selector */
-.letters>p, .eachletter>p,  {
+p  {
 text-align: center;
 background-color: #ddd6fe;
 width: 70px;
