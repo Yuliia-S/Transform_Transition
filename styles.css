@@ -21,11 +21,11 @@
 
 p  {
 text-align: center;
-background-color: #ddd6fe;
+background-color: rgb(221,214,254);
 width: 70px;
 margin-right: 1.5px;
 border-radius: 15%;
-border-color: #a5b4fc;
+border-color: rgb(165,180,252);
 border-style: solid;
 }
 
