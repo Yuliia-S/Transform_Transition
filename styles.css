@@ -20,7 +20,7 @@
 }
 
 /* Add rules for the element 'p' present inside the class 'letters' using descendant selector */
-.letters > p, .eachletter > p,  {
+.letters>p, .eachletter>p,  {
 text-align: center;
 background-color: #ddd6fe;
 width: 70px;
